@@ -1,0 +1,69 @@
+ body {
+            background-color: lightgray;
+            margin-left: 5%;
+            margin-top: 8%;
+            
+                
+        }
+        #firstName {
+            font-size: 12pt;
+            font-family: sans-serif;
+            margin-left: 8px;
+            
+        }
+        #firstName {
+            font-size: 12pt;
+            font-family: sans-serif;
+            margin-left: 8px;
+            
+        }
+        #lastName {
+            font-size: 12pt;
+            font-family: sans-serif;
+            margin-left: 8px;
+            
+        }
+        #country {
+            font-size: 12pt;
+            font-family: sans-serif;
+            margin-left: 8px;
+            
+        }
+        #subject {
+            font-size: 12pt;
+            font-family: sans-serif;
+            margin-left: 8px;
+                
+        }
+        #input-fName {
+        border-radius: 5pt;
+        border-color: beige;
+        width: 80%;
+        height: 2em;
+        padding-left: 8px;
+        margin: 5px
+        }
+        #input-lName {
+        border-radius: 5pt;
+        border-color: beige;
+        width: 80%;
+        height: 2em;
+        padding-left: 8px;
+        margin: 5px
+        }
+         #countryList {
+        border-radius: 5pt;
+        border-color: beige;
+        width: 80%;
+        height: 2.3em;
+        padding-left: 8px;
+        margin: 5px
+        }
+        #textarea {
+        border-radius: 5pt;
+        border-color: beige;
+        width: 80%;
+        height: 8em;
+        padding-left: 8px;
+        margin: 5px
+        }
